@@ -1,0 +1,631 @@
+CustomerID,CustomerName,Age,Gender,Country,JoinDate,PurchaseAmount
+1496.0,Sara Sharma,-26.0,F,Canada,06-08-2022,3724.23
+1107.0,Myra Nair,40.0,Male,india,01/10/2022,6025.38
+1066.0,Aditya Singh,31.0,Male,INDIA,20/01/2023,3625.43
+1159.0,Krishna Verma,44.0,F,Canada,2023-07-05,4492.07
+1512.0,Vivaan Verma,17.0,M,UK,02/01/2020,"$3,189.84"
+2931.0,,,,,,
+1041.0,Ananya Singh,47.0,Female,United Kingdom,15/05/2019,7396.51
+1023.0,Anika Iyer,60.0,FEMALE,USA,2021-01-14,7721.13
+1059.0,Vivaan Nair,28.0,Female,uk,11-16-2023,2846.89
+1245.0,Krishna Kapoor,36.0,Female,UK,04/08/2018,
+1283.0,Diya Singh,24.0,Female,United Kingdom,2023-07-04,2890.8
+1201.0,Sai Rao,24.0,Male,canada,07-10-2023,$417.86
+1457.0,Reyansh Reddy,35.0,Male,uk,2018-11-21,3460.36
+1268.0,Myra Gupta,59.0,Male,Usa,08-04-2023,
+1101.0,Kiara Nair,,Male,Canada,11/07/2023,3324.68
+1195.0,Aarav Verma,56.0,F,USA,06-17-2022,"$4,124.55"
+1323.0,Myra Rao,39.0,female,USA,07-02-2018,3201.75
+1346.0,Saanvi Nair,33.0,FEMALE,uk,15/04/2023,2534.26
+1209.0,Riya Kapoor,35.0,male,Usa,24/09/2018,3136.07
+1595.0,Myra Mehta,28.0,Female,Canada,09-05-2022,4445.64
+1047.0,Anika Mehta,61.0,F,United Kingdom,20/01/2021,4560.27
+1013.0,Reyansh Verma,51.0,female,United Kingdom,2023-09-09,2751.06 INR
+1286.0,Saanvi Sharma,28.0,Male,uk,13/08/2018,4668.24
+1353.0,Riya Verma,20.0,Male,Canada,2018-09-23,5414.71
+1517.0,Anika Rao,57.0,male,uk,2023-05-06,
+1090.0,Sara Singh,34.0,male,U.S.A,20/06/2023,3652.89
+1120.0,Diya Rao,54.0,Male,U.S.A,2019-02-24,6293.48
+1481.0,Reyansh Sharma,31.0,FEMALE,India,2022-08-27,4089.71
+1599.0,Anika Mehta,38.0,Male,USA,2023-05-01,"$2,419.48"
+1488.0,Reyansh Rao,63.0,F,United Kingdom,2022-06-22,2737.82
+1333.0,Aditya Kapoor,51.0,Male,india,2018-08-27,"$1,682.14"
+1446.0,Myra Rao,-44.0,nan,USA,2021-04-26,3843.45
+1132.0,Ishaan Reddy,42.0,MALE,U.S.A,2023-02-20,4623.83
+1236.0,Reyansh Kapoor,15.0,Male,Usa,2019-03-18,
+1160.0,Aarav Sharma,-65.0,Male,UK,07/07/2021,"$1,873.08"
+1088.0,Vihaan Rao,66.0,Male,Canada,2023-04-21,4429.55
+1414.0,Aditya Reddy,69.0,FEMALE,U.S.A,06/06/2021,1507.41
+1262.0,Sai Iyer,52.0,Female,INDIA,2020-07-05,2761.63
+1406.0,Sara Reddy,31.0,F,U.S.A,05/10/2022,2175.7
+1318.0,Saanvi Sharma,59.0,MALE,uk,2019-11-12,3251.52
+1119.0,Reyansh Nair,36.0,female,Usa,13/06/2022,3253.02
+1585.0,Arjun Kapoor,31.0,M,USA,26/02/2022,3597.75
+1111.0,Arjun Reddy,-26.0,male,Usa,27/10/2023,4736.3
+1549.0,Reyansh Rao,57.0,Male,India,01/07/2023,2508.98
+1408.0,Krishna Verma,56.0,MALE,uk,2019-02-24,
+1172.0,Riya Gupta,57.0,nan,uk,10/01/2022,"$4,151.01"
+1214.0,Reyansh Nair,15.0,Female,U.S.A,05-02-2023,2447.35
+1000.0,Vivaan Rao,51.0,Male,U.S.A,11-20-2021,"$3,025.64"
+1550.0,Aadhya Gupta,18.0,female,Canada,04-08-2023,5728.28 INR
+1162.0,Riya Reddy,57.0,M,USA,2020-08-10,488.16
+1069.0,Vihaan Sharma,17.0,male,UK,06/07/2021,4016.91
+1304.0,Saanvi Verma,28.0,Female,INDIA,25/10/2018,3219.86
+1386.0,Ananya Rao,18.0,FEMALE,Usa,24/03/2023,1924.37
+1144.0,Saanvi Iyer,48.0,F,canada,07/04/2019,4046.79 INR
+1218.0,Arjun Verma,26.0,FEMALE,U.S.A,2022-08-24,2195.06 INR
+2798.0,,,,,,
+1370.0,Reyansh Verma,61.0,Male,uk,21/04/2021,2416.46
+1570.0,Vivaan Iyer,46.0,Female,UK,05-18-2018,3289.57
+1458.0,Ishaan Gupta,28.0,Female,Canada,02/01/2018,6533.88
+1530.0,Anika Sharma,19.0,female,United Kingdom,02-09-2023,4982.51
+1573.0,Myra Singh,47.0,female,INDIA,09/11/2023,
+1436.0,Reyansh Sharma,-21.0,FEMALE,Canada,21/07/2019,"$2,484.51"
+1383.0,Arjun Sharma,-41.0,male,United Kingdom,09-24-2018,"$1,483.65"
+1034.0,Aadhya Gupta,57.0,female,Canada,2018-08-17,"$3,843.82"
+1547.0,Aadhya Nair,63.0,Male,UK,2019-09-06,2274.73
+1173.0,Vihaan Sharma,19.0,Female,U.S.A,08/11/2018,3484.71
+1065.0,Ishaan Verma,64.0,nan,uk,27/05/2021,6177.75
+1011.0,Myra Verma,31.0,Female,canada,01-05-2019,1976.63 INR
+1427.0,Ayaan Reddy,41.0,Male,india,12/07/2020,3881.83
+1334.0,Vihaan Reddy,18.0,Female,india,2022-03-16,"$5,353.67"
+1242.0,Aarav Sharma,38.0,male,INDIA,09/05/2018,3510.81 INR
+1596.0,Ananya Mehta,42.0,Female,uk,2019-04-03,3199.68
+1544.0,Aadhya Nair,46.0,Female,india,12/03/2020,3407.05
+1267.0,Anika Singh,31.0,nan,canada,2020-08-10,4671.77 INR
+1520.0,Vivaan Rao,16.0,Female,United Kingdom,2018-10-06,4815.25 INR
+1557.0,Ananya Nair,35.0,Male,INDIA,18/10/2021,4509.09
+1504.0,Vivaan Iyer,57.0,MALE,UK,2021-06-02,2799.04 INR
+1049.0,Saanvi Singh,36.0,Male,india,19/11/2021,3781.96 INR
+1165.0,Vivaan Mehta,18.0,Female,UK,02-18-2021,1859.39
+1186.0,Ishaan Reddy,40.0,Female,india,07/10/2019,"$4,407.49"
+1082.0,Sara Reddy,44.0,MALE,Usa,11/09/2022,4177.65
+1285.0,Ishaan Kapoor,51.0,Female,UK,15/11/2023,"$3,238.74"
+1463.0,Ananya Iyer,16.0,Female,india,18/02/2020,4069.04
+1085.0,Vivaan Reddy,48.0,female,canada,2023-10-16,1393.6
+1200.0,Aadhya Iyer,57.0,FEMALE,INDIA,2019-07-16,47542.3
+1579.0,Pari Reddy,53.0,Female,INDIA,2020-04-27,59156.5
+1402.0,Ishaan Reddy,40.0,male,India,11-25-2021,5456.5
+1574.0,Kiara Singh,19.0,male,uk,08/11/2022,"$2,872.42"
+1135.0,Krishna Gupta,67.0,Female,USA,2023-05-19,3170.1
+1428.0,Kiara Kapoor,60.0,male,USA,05-04-2020,2830.45
+1062.0,Krishna Mehta,23.0,male,India,05-15-2020,1966.58
+1179.0,Sai Verma,65.0,male,U.S.A,2019-01-17,1769.49
+1498.0,Anika Iyer,32.0,MALE,UK,2021-10-07,5187.4
+1360.0,Sara Sharma,68.0,FEMALE,USA,02-25-2023,2408.64
+1373.0,Anika Mehta,20.0,MALE,U.S.A,2020-03-09,"$2,217.52"
+1305.0,Ananya Singh,28.0,female,USA,07-21-2020,4106.82
+1577.0,Ayaan Sharma,19.0,Female,USA,13/01/2022,4924.52
+1247.0,Riya Nair,54.0,male,Canada,2022-01-25,3675.47
+1590.0,Ananya Kapoor,42.0,Male,canada,08/06/2019,
+1017.0,Krishna Verma,66.0,female,India,09/02/2023,2235.15
+1181.0,Riya Kapoor,39.0,Male,uk,09-20-2022,5601.32 INR
+1060.0,Reyansh Kapoor,,nan,Usa,2022-02-08,$50.00
+1207.0,Aarav Singh,57.0,FEMALE,india,2021-08-09,5863.52
+1090.0,Sara Singh,34.0,male,U.S.A,20/06/2023,3652.89
+1207.0,Aarav Singh,57.0,FEMALE,india,2021-08-09,5863.52
+1447.0,Aadhya Iyer,22.0,Female,U.S.A,2022-04-14,3606.94 INR
+1483.0,Ananya Sharma,15.0,nan,INDIA,21/01/2019,3345.93 INR
+1368.0,Riya Nair,26.0,FEMALE,india,26/01/2019,2932.57
+1460.0,Aadhya Sharma,35.0,Male,UK,2023-08-02,2652.79
+1185.0,Vihaan Mehta,15.0,female,India,02-11-2020,3836.45
+1029.0,Vivaan Gupta,54.0,Male,UK,01/07/2018,63.07
+1553.0,Riya Singh,48.0,male,uk,01-01-2021,50
+1250.0,Anika Gupta,23.0,female,UK,02-08-2019,3530.06
+1588.0,Pari Rao,43.0,female,U.S.A,14/10/2018,3145.09
+1423.0,Kiara Nair,-43.0,Male,India,09/06/2022,5295.23
+1419.0,Reyansh Kapoor,20.0,Male,canada,2019-04-06,44062.37
+1395.0,Aarav Reddy,55.0,M,INDIA,12/08/2020,5432.1
+1598.0,Diya Iyer,39.0,M,United Kingdom,01-08-2021,6433.23
+1259.0,Aarav Kapoor,51.0,male,USA,2019-03-07,2970.13
+1092.0,Ayaan Reddy,30.0,Male,INDIA,02/01/2020,4182.54
+1351.0,Reyansh Kapoor,28.0,Female,USA,26/11/2021,2944.08
+1103.0,Anika Mehta,20.0,Male,Usa,13/03/2020,1658.0
+1224.0,Myra Gupta,32.0,Male,Canada,06-16-2019,"$3,205.25"
+1273.0,Riya Nair,54.0,Female,canada,04-08-2019,3558.97
+1048.0,Aadhya Mehta,35.0,FEMALE,Usa,16/04/2020,"$2,729.34"
+1511.0,Aditya Mehta,18.0,Male,INDIA,02-19-2023,50
+1314.0,Ananya Kapoor,26.0,Male,Canada,2022-11-06,5644.3
+1500.0,Ananya Singh,44.0,Female,U.S.A,2021-06-23,3908.83
+1350.0,Aadhya Nair,50.0,Female,USA,2018-03-20,3264.02
+1080.0,Aarav Kapoor,19.0,Female,Canada,11/06/2020,"$3,151.60"
+1241.0,Sara Reddy,52.0,Female,Usa,23/02/2023,2027.14 INR
+1349.0,Vivaan Reddy,69.0,Female,INDIA,2022-07-02,"$3,867.41"
+1003.0,Myra Verma,40.0,female,india,05-05-2023,1743.21
+1560.0,Reyansh Verma,60.0,MALE,Canada,2023-06-03,5673.4
+1009.0,Kiara Gupta,19.0,Male,india,22/04/2022,2608.78
+1361.0,Vihaan Sharma,56.0,Female,UK,27/07/2019,2286.35
+1597.0,Myra Gupta,34.0,male,India,02-26-2020,5661.62
+1260.0,Ishaan Reddy,56.0,nan,UK,10-11-2019,"$5,751.85"
+1365.0,Diya Mehta,64.0,Male,india,09-10-2021,3833.2
+1334.0,Vihaan Reddy,18.0,Female,india,2022-03-16,"$5,353.67"
+1291.0,Saanvi Sharma,16.0,nan,India,2019-10-01,
+1261.0,Saanvi Gupta,23.0,nan,india,08/09/2022,4357.79
+1364.0,Ayaan Mehta,27.0,Male,canada,06-01-2023,
+1522.0,Aditya Mehta,43.0,Female,India,2023-03-08,4465.99
+1040.0,Sara Reddy,23.0,male,U.S.A,09/01/2023,6405.85
+1479.0,Diya Kapoor,51.0,Male,Canada,01-26-2023,3793.9
+1005.0,Arjun Verma,39.0,F,United Kingdom,16/07/2021,4566.84 INR
+1148.0,Sai Kapoor,24.0,Male,Canada,2019-03-04,"$1,403.47"
+1293.0,Anika Mehta,38.0,Female,Canada,08-03-2020,1628.56
+1038.0,Myra Verma,35.0,Female,canada,2023-07-13,5480.99
+1233.0,Diya Kapoor,42.0,nan,U.S.A,02-09-2019,"$3,424.06"
+1197.0,Arjun Mehta,60.0,Male,U.S.A,01-14-2022,2860.09 INR
+1394.0,Kiara Sharma,58.0,F,Canada,09-21-2020,1483.28
+1067.0,Anika Iyer,21.0,Male,Canada,2022-08-02,
+1124.0,Aarav Nair,66.0,Female,U.S.A,2023-05-27,1413.97
+1039.0,Krishna Kapoor,23.0,Female,india,2018-02-27,3740.29
+1187.0,Aadhya Kapoor,33.0,Female,USA,03-15-2019,
+1455.0,Ananya Mehta,64.0,Male,INDIA,09/09/2022,4220.46
+1223.0,Riya Rao,15.0,Female,United Kingdom,09-11-2019,2265.95
+1147.0,Aditya Singh,35.0,Female,uk,2018-08-09,3254.07
+1354.0,Ananya Reddy,55.0,Female,INDIA,16/02/2019,2399.64 INR
+1527.0,Vihaan Sharma,59.0,Male,Usa,01-11-2018,4672.61
+1429.0,Arjun Nair,-60.0,MALE,USA,2019-05-24,4084.94
+1340.0,Pari Reddy,43.0,Female,uk,2021-03-18,3538.94
+1439.0,Vivaan Verma,42.0,Male,india,22/06/2020,"$3,296.71"
+1031.0,Saanvi Gupta,58.0,Male,U.S.A,15/11/2018,3312.49
+1307.0,Krishna Sharma,51.0,Male,uk,2020-10-21,1714.48
+1095.0,Aarav Kapoor,16.0,nan,Usa,09/04/2019,"$4,421.15"
+1409.0,Anika Nair,21.0,female,Canada,2023-02-17,877.22
+1292.0,Kiara Rao,20.0,male,uk,23/11/2022,1929.36
+1392.0,Myra Mehta,37.0,Male,Canada,08-23-2019,"$6,171.56"
+1341.0,Ishaan Reddy,51.0,nan,Canada,05-12-2018,2007.84
+1421.0,Riya Sharma,50.0,female,U.S.A,2022-05-06,4339.06
+1074.0,Reyansh Iyer,34.0,female,U.S.A,04-01-2018,"$2,026.97"
+1255.0,Ayaan Gupta,61.0,F,Canada,2020-01-11,55140.27
+1345.0,Diya Singh,39.0,Male,UK,08-02-2023,3756.43
+1061.0,Myra Iyer,17.0,Male,India,2023-08-13,
+1484.0,Kiara Reddy,38.0,nan,INDIA,09-10-2020,834.97
+1257.0,Ishaan Sharma,60.0,Female,United Kingdom,2020-07-06,5879.01
+1076.0,Arjun Gupta,22.0,nan,USA,11-17-2018,"$1,742.04"
+1277.0,Aditya Reddy,40.0,Female,USA,06-01-2019,
+1584.0,Riya Rao,68.0,nan,United Kingdom,24/02/2020,1768.78
+1582.0,Ishaan Nair,45.0,nan,USA,04-02-2018,6102.61
+1068.0,Diya Nair,36.0,Female,india,2018-07-05,2380.85
+1371.0,Ishaan Iyer,50.0,male,India,26/09/2023,"$3,868.92"
+1569.0,Sai Iyer,17.0,nan,USA,15/06/2018,4435.46
+1118.0,Myra Verma,43.0,FEMALE,USA,08-15-2018,4743.68
+1004.0,Pari Gupta,28.0,Male,United Kingdom,22/09/2022,1314.27
+1376.0,Ayaan Singh,69.0,male,canada,2018-08-03,1167.93
+1480.0,Saanvi Singh,44.0,female,uk,2021-02-11,4235.55 INR
+1375.0,Arjun Iyer,52.0,MALE,india,18/05/2022,2828.2
+1284.0,Aarav Mehta,44.0,Female,India,2022-05-17,4325.38
+1019.0,Diya Nair,23.0,Female,UK,05/11/2018,56029.27
+1465.0,Pari Mehta,55.0,male,USA,10-11-2020,
+1359.0,Diya Rao,16.0,MALE,uk,2022-10-03,4114.9
+1117.0,Riya Verma,30.0,Female,India,24/11/2018,3119.06 INR
+1200.0,Aadhya Iyer,57.0,FEMALE,INDIA,2019-07-16,47542.3
+1078.0,Anika Iyer,60.0,Male,U.S.A,2021-11-12,"$3,161.85"
+1510.0,Myra Gupta,16.0,Male,USA,2020-01-01,2461.87
+1057.0,Ayaan Gupta,45.0,male,India,05-24-2020,3473.66
+1180.0,Myra Nair,66.0,MALE,USA,05/10/2020,3641.89
+1565.0,Ayaan Reddy,18.0,Male,india,04-04-2019,889.52
+1042.0,Pari Nair,55.0,MALE,Usa,2020-06-02,4498.38 INR
+1519.0,Myra Reddy,58.0,M,U.S.A,27/05/2023,3047.48
+1526.0,Anika Verma,67.0,Male,Usa,01-13-2021,4158.22 INR
+1081.0,Vivaan Reddy,60.0,Male,canada,2018-03-24,4798.95
+1133.0,Vihaan Iyer,22.0,nan,U.S.A,27/04/2020,4326.79
+1328.0,Pari Verma,45.0,female,INDIA,03/06/2019,2864.23
+1516.0,Aadhya Verma,62.0,Male,INDIA,13/02/2022,1425.86
+1551.0,Krishna Mehta,53.0,Female,india,2020-04-03,1957.99
+1161.0,Aditya Sharma,45.0,Male,india,22/03/2023,2575.71
+1475.0,Sara Mehta,22.0,male,U.S.A,03-20-2023,"$4,773.30"
+1311.0,Saanvi Sharma,58.0,male,Usa,2021-01-14,720.91
+1192.0,Vihaan Mehta,56.0,male,United Kingdom,2022-08-09,1934.08
+1464.0,Ishaan Verma,39.0,Male,india,05-13-2019,3930.97
+1558.0,Vivaan Iyer,50.0,male,India,2022-07-03,"$2,683.52"
+1445.0,Kiara Iyer,49.0,F,U.S.A,07-08-2023,6589.65 INR
+1535.0,Saanvi Reddy,27.0,FEMALE,INDIA,01-09-2019,4990.83
+1274.0,Riya Reddy,52.0,male,India,2019-07-06,1448.09 INR
+1441.0,Aditya Iyer,64.0,Female,INDIA,2020-03-15,4219.76 INR
+1335.0,Sara Singh,35.0,Male,India,2018-05-06,4441.24
+1104.0,Aditya Reddy,43.0,male,india,2020-04-07,6922.45
+1347.0,Saanvi Verma,17.0,nan,Usa,22/09/2021,
+1189.0,Ishaan Iyer,44.0,male,INDIA,09/07/2019,2279.91
+1139.0,Aditya Gupta,30.0,Male,india,18/10/2020,2359.71
+1157.0,Aditya Nair,33.0,Male,United Kingdom,06-19-2020,4510.69
+1016.0,Aarav Kapoor,67.0,Male,INDIA,10/02/2022,1839.43
+1575.0,Pari Mehta,54.0,male,United Kingdom,2019-07-22,7152.15
+1500.0,Ananya Singh,44.0,Female,U.S.A,2021-06-23,3908.83
+1425.0,Ishaan Nair,57.0,Female,india,27/07/2022,4549.51
+1435.0,Anika Singh,53.0,Male,Canada,2019-03-17,44757.86
+1121.0,Aarav Gupta,45.0,Male,India,07-10-2018,4477.62
+1493.0,Sara Singh,46.0,Male,USA,17/03/2019,"$2,995.81"
+1102.0,Vihaan Iyer,56.0,Female,INDIA,2021-08-23,3484.04
+1052.0,Pari Kapoor,62.0,F,Usa,06/01/2021,
+1543.0,Vihaan Rao,33.0,FEMALE,United Kingdom,03-24-2020,6646.27
+1571.0,Aadhya Nair,22.0,Male,UK,2018-07-26,2962.92
+1592.0,Vivaan Kapoor,69.0,Female,canada,04-27-2020,4639.64
+1146.0,Ananya Mehta,27.0,Female,uk,2020-09-22,$893.43
+1407.0,Pari Sharma,37.0,FEMALE,India,2020-05-18,5194.22
+1523.0,Riya Gupta,30.0,Male,UK,2023-06-05,6577.72
+1097.0,Reyansh Verma,31.0,Male,Usa,05-23-2018,3223.74
+1568.0,Sai Mehta,30.0,Female,U.S.A,11-26-2021,3146.93
+1128.0,Kiara Rao,24.0,Female,United Kingdom,2022-02-11,"$2,575.56"
+1502.0,Ayaan Sharma,55.0,Male,Usa,10/09/2022,2626.47
+1306.0,Ananya Nair,57.0,MALE,U.S.A,03-08-2018,3120.92 INR
+1055.0,Riya Gupta,54.0,FEMALE,UK,2023-03-19,4286.76
+1442.0,Krishna Rao,47.0,Female,Canada,27/03/2021,2628.02
+1110.0,Aadhya Kapoor,61.0,Male,U.S.A,01-26-2021,"$4,045.55"
+1438.0,Reyansh Kapoor,23.0,Male,India,11-21-2018,
+1358.0,Anika Sharma,45.0,nan,Usa,2022-10-12,1793.61
+1355.0,Ishaan Verma,31.0,Male,India,20/10/2021,2350.22
+1382.0,Kiara Verma,,nan,U.S.A,04/06/2022,3999.71
+1363.0,Krishna Kapoor,59.0,MALE,uk,02/07/2023,1711.28
+1396.0,Myra Iyer,63.0,Male,U.S.A,2021-05-12,4635.68
+1411.0,Ayaan Iyer,53.0,female,Canada,05-18-2023,6257.92
+1142.0,Aadhya Nair,42.0,nan,UK,03-21-2022,2921.56
+1506.0,Ananya Rao,53.0,Male,canada,10-04-2021,5830.35
+1006.0,Sai Reddy,69.0,male,Canada,12/04/2023,2859.12
+1182.0,Pari Sharma,51.0,Female,U.S.A,2018-10-05,3822.65
+1237.0,Arjun Singh,-38.0,male,India,07/07/2022,4458.14
+1339.0,Aadhya Singh,48.0,M,Usa,06/08/2022,2243.27
+1058.0,Diya Iyer,63.0,Female,Canada,2021-08-01,1524.75
+1232.0,Diya Mehta,37.0,female,uk,12/06/2021,"$2,207.03"
+1518.0,Vihaan Singh,15.0,FEMALE,UK,18/08/2023,3279.93
+1203.0,Pari Iyer,44.0,Female,canada,25/06/2019,5720.15
+1385.0,Kiara Iyer,39.0,Male,Canada,2023-06-16,4268.89
+1312.0,Aadhya Iyer,28.0,FEMALE,United Kingdom,09-26-2019,3569.46
+1002.0,Krishna Mehta,52.0,Male,uk,02-21-2021,6712.47
+1289.0,Aadhya Kapoor,38.0,nan,Canada,2020-03-21,
+1509.0,Ayaan Sharma,66.0,FEMALE,india,24/07/2022,3058.77
+1046.0,Ishaan Reddy,65.0,Male,india,2021-03-06,2691.84
+1225.0,Reyansh Singh,46.0,Female,U.S.A,04/06/2019,2343.15
+1018.0,Vivaan Rao,60.0,M,india,04/04/2023,4307.17
+1168.0,Reyansh Sharma,37.0,male,Usa,20/10/2018,1963.21
+1410.0,Ananya Singh,28.0,Male,UK,09/08/2021,"$7,786.21"
+1234.0,Aadhya Singh,45.0,Male,Usa,03/02/2022,5434.89
+1552.0,Saanvi Singh,56.0,Female,Canada,10/07/2019,6137.17
+1444.0,Kiara Verma,46.0,nan,uk,2019-05-26,5924.42
+1440.0,Sara Mehta,16.0,female,canada,2021-07-20,5969.74
+1301.0,Arjun Iyer,63.0,MALE,U.S.A,03-20-2020,5118.97
+1093.0,Aditya Iyer,39.0,Female,canada,07-24-2020,"$5,652.95"
+1213.0,Aarav Kapoor,67.0,Female,Canada,2021-08-15,49428.39
+1258.0,Vihaan Mehta,32.0,Male,U.S.A,02/09/2018,2998.82
+1576.0,Anika Iyer,46.0,male,United Kingdom,2022-03-05,"$5,739.95"
+1106.0,Arjun Reddy,18.0,MALE,USA,02-22-2023,1723.81
+1115.0,Ishaan Iyer,25.0,MALE,india,2020-11-07,4486.83
+1125.0,Aarav Reddy,42.0,MALE,Canada,08-21-2022,5700.77
+1524.0,Anika Gupta,39.0,female,USA,14/10/2018,3828.23 INR
+1329.0,Vihaan Nair,16.0,M,Usa,11/04/2019,4781.36
+1036.0,Aadhya Mehta,68.0,MALE,canada,2020-01-13,5530.38
+1397.0,Pari Iyer,38.0,Female,UK,2019-06-21,"$1,913.19"
+1204.0,Myra Verma,20.0,nan,INDIA,2023-08-03,2451.47
+1244.0,Ayaan Kapoor,37.0,M,INDIA,2020-11-09,5294.51
+1221.0,Diya Kapoor,64.0,male,UK,2018-04-19,4459.9
+1246.0,Myra Kapoor,45.0,Male,India,07-07-2019,2324.9
+1378.0,Sara Nair,62.0,male,Canada,27/04/2018,
+1415.0,Pari Singh,51.0,Male,uk,05-24-2022,3279.07
+1249.0,Vihaan Iyer,-52.0,nan,india,09-18-2018,1684.4
+1122.0,Aadhya Mehta,49.0,Male,canada,05-17-2020,3542.03
+1537.0,Krishna Verma,45.0,Female,UK,09-13-2018,3243.45
+1164.0,Krishna Gupta,-48.0,nan,canada,01-24-2021,2795.25
+1539.0,Ishaan Kapoor,43.0,Male,Usa,10-17-2018,2024.63
+1521.0,Saanvi Verma,68.0,Female,Usa,2019-07-14,2694.7
+1239.0,Sara Singh,42.0,F,INDIA,15/05/2020,5756.76
+1453.0,Vivaan Rao,51.0,nan,India,12/07/2019,1239.32
+1374.0,Aadhya Kapoor,45.0,Female,india,2019-07-20,2159.37
+1295.0,Riya Reddy,-68.0,female,UK,21/07/2018,4062.89
+1533.0,Sara Kapoor,20.0,Female,Canada,11-12-2023,3168.68
+1070.0,Kiara Kapoor,,F,U.S.A,12/06/2020,2557.9
+1352.0,Ishaan Kapoor,68.0,Male,uk,2023-06-07,853.08
+1464.0,Ishaan Verma,39.0,Male,india,05-13-2019,3930.97
+1098.0,Vivaan Mehta,29.0,Male,Canada,05-15-2020,3592.56
+1529.0,Riya Kapoor,50.0,Female,india,04-12-2022,5430.64
+1414.0,Aditya Reddy,69.0,FEMALE,U.S.A,06/06/2021,1507.41
+1030.0,Arjun Nair,22.0,Male,canada,20/08/2020,2643.58
+1404.0,Diya Reddy,23.0,MALE,INDIA,03/09/2023,2610.61
+1127.0,Ayaan Verma,35.0,male,UK,02-03-2021,2913.98
+1001.0,Vihaan Kapoor,57.0,Male,United Kingdom,2018-07-24,4817.68
+1337.0,Krishna Gupta,31.0,Male,Usa,07/02/2020,
+1027.0,Ishaan Nair,67.0,Female,Canada,2022-07-02,4984.38
+1089.0,Ananya Rao,57.0,Female,canada,04-20-2018,3804.16 INR
+1308.0,Ananya Verma,63.0,Male,U.S.A,10-13-2023,4336.36
+1073.0,Sara Iyer,59.0,male,United Kingdom,16/07/2020,2439.1
+1494.0,Aditya Reddy,45.0,male,UK,2019-04-06,
+1171.0,Arjun Nair,22.0,Female,India,02-03-2022,"$4,317.98"
+1417.0,Riya Gupta,38.0,female,Canada,2019-02-19,
+1486.0,Pari Kapoor,25.0,female,Usa,10-27-2022,1354.62
+1449.0,Sai Mehta,28.0,FEMALE,USA,2022-07-23,4888.47
+1362.0,Kiara Sharma,26.0,nan,india,01/07/2018,
+1091.0,Reyansh Mehta,66.0,F,canada,17/06/2018,5708.02
+1379.0,Myra Singh,58.0,Female,Usa,03-11-2023,5405.06
+1545.0,Kiara Mehta,,nan,INDIA,18/03/2020,
+1125.0,Aarav Reddy,42.0,MALE,Canada,08-21-2022,5700.77
+1452.0,Diya Nair,18.0,female,United Kingdom,03-16-2018,4677.79
+1315.0,Aarav Mehta,59.0,male,Usa,2023-10-21,"$2,855.79"
+1012.0,Krishna Kapoor,23.0,male,UK,23/06/2021,3288.81
+1546.0,Sai Reddy,25.0,male,U.S.A,07-15-2019,"$3,133.72"
+1380.0,Diya Verma,27.0,F,USA,2023-03-20,3967.11
+2417.0,,,,,,
+1426.0,Arjun Kapoor,30.0,male,Usa,2019-06-11,5194.96
+1238.0,Sara Kapoor,66.0,MALE,uk,2021-09-04,4738.57
+1114.0,Ananya Reddy,38.0,M,United Kingdom,2022-07-04,4951.2
+1499.0,Arjun Nair,16.0,MALE,INDIA,17/08/2019,3033.64 INR
+1487.0,Vihaan Verma,64.0,nan,uk,16/08/2021,3929.29
+1143.0,Aarav Rao,59.0,Female,canada,06-02-2021,2455.68
+1377.0,Krishna Kapoor,39.0,Male,Usa,2020-10-17,"$4,212.22"
+1014.0,Reyansh Mehta,40.0,male,uk,2021-06-25,2517.82 INR
+1593.0,Reyansh Mehta,63.0,Male,india,2023-01-02,1954.23
+1054.0,Arjun Mehta,39.0,Male,India,05-19-2022,5543.96
+1208.0,Sara Nair,31.0,female,USA,08/06/2020,"$2,846.40"
+1344.0,Aadhya Verma,41.0,Male,india,2018-03-06,3909.98
+1131.0,Saanvi Singh,16.0,FEMALE,Canada,10-14-2022,
+1174.0,Ananya Reddy,15.0,male,canada,06-20-2023,1292.28
+1482.0,Myra Mehta,56.0,female,india,05/11/2018,1608.31
+1191.0,Kiara Rao,16.0,Female,Usa,07-13-2023,2308.93 INR
+1270.0,Anika Reddy,19.0,Male,India,04-05-2021,4306.15
+1388.0,Aditya Kapoor,23.0,Female,Canada,2022-04-15,3245.99
+1123.0,Vihaan Singh,24.0,female,United Kingdom,02-20-2023,"$2,106.52"
+1138.0,Vivaan Rao,68.0,Male,india,2020-06-07,3792.89
+1051.0,Anika Reddy,50.0,nan,UK,04-23-2018,"$1,022.36"
+1220.0,Riya Mehta,44.0,Female,Usa,03-11-2019,5735.19
+1112.0,Arjun Nair,28.0,Male,canada,07-26-2023,373.4
+1265.0,Aarav Rao,18.0,Male,United Kingdom,09/07/2018,5072.04
+1422.0,Pari Nair,58.0,nan,Usa,10-15-2020,3538.66
+1272.0,Reyansh Reddy,24.0,Male,U.S.A,2021-02-01,4320.0
+1342.0,Aditya Rao,51.0,Male,USA,11/05/2022,4616.5 INR
+1256.0,Diya Singh,64.0,Female,U.S.A,09-06-2020,2323.61
+1182.0,Pari Sharma,51.0,Female,U.S.A,2018-10-05,3822.65
+1105.0,Aarav Kapoor,53.0,Female,india,02-06-2020,3433.35
+1300.0,Ananya Rao,48.0,nan,Usa,09-22-2019,5122.06
+1331.0,Saanvi Reddy,18.0,Female,INDIA,2022-02-10,4386.66
+1452.0,Diya Nair,18.0,female,United Kingdom,03-16-2018,4677.79
+1240.0,Vivaan Rao,54.0,MALE,U.S.A,04-15-2020,2321.31
+1230.0,Pari Sharma,53.0,male,USA,2021-06-22,4048.23
+1153.0,Aarav Rao,67.0,nan,Usa,26/06/2023,1817.85 INR
+1326.0,Diya Kapoor,-50.0,Male,U.S.A,05-10-2022,2937.82
+1495.0,Ishaan Verma,55.0,Female,Canada,06-15-2019,3217.63
+1433.0,Diya Mehta,57.0,Female,USA,2021-03-03,3420.92
+1294.0,Myra Gupta,,FEMALE,Usa,2021-07-10,2962.91
+1150.0,Vivaan Verma,38.0,Male,uk,2022-10-19,4506.84 INR
+1448.0,Riya Singh,28.0,F,canada,2019-09-08,2909.15
+1163.0,Arjun Rao,17.0,Male,india,2019-01-24,1173.47
+1167.0,Vihaan Mehta,58.0,male,INDIA,08-18-2018,"$2,930.49"
+1400.0,Arjun Nair,16.0,Female,U.S.A,05-18-2020,2579.69
+1206.0,Reyansh Reddy,61.0,Female,UK,10/07/2022,4970.29
+1188.0,Aditya Iyer,47.0,female,United Kingdom,2020-10-14,2797.36
+1432.0,Ananya Sharma,27.0,Female,India,2018-07-16,5140.3
+1324.0,Ananya Reddy,42.0,Female,USA,03-11-2019,4891.32 INR
+1145.0,Reyansh Nair,48.0,FEMALE,Usa,23/01/2022,"$4,809.58"
+1474.0,Aditya Rao,41.0,F,India,02/09/2021,"$1,188.39"
+1226.0,Sai Verma,19.0,Male,UK,2022-08-05,3635.24
+1216.0,Aadhya Singh,32.0,female,U.S.A,2018-11-11,2620.23
+1194.0,Reyansh Rao,26.0,male,Usa,16/06/2022,5126.88
+1202.0,Sara Gupta,36.0,Female,INDIA,09-19-2019,3796.33
+1298.0,Saanvi Gupta,54.0,FEMALE,UK,06-15-2022,1381.04
+1563.0,Ishaan Rao,46.0,nan,UK,10/02/2018,1788.18
+1477.0,Saanvi Nair,27.0,Female,Usa,11/09/2019,6071.47
+1459.0,Aarav Singh,38.0,Male,INDIA,02-21-2018,3972.45
+1434.0,Sara Kapoor,41.0,Female,canada,14/09/2019,"$5,558.58"
+1389.0,Saanvi Kapoor,56.0,Female,United Kingdom,2019-10-24,3977.54
+1507.0,Krishna Iyer,,nan,Usa,10-13-2020,48360.54
+1175.0,Riya Kapoor,,M,INDIA,03-20-2021,4994.83
+1567.0,Ayaan Sharma,35.0,female,UK,2019-01-12,3287.42
+1094.0,Arjun Gupta,41.0,MALE,Canada,05/02/2021,2605.87
+1229.0,Krishna Sharma,38.0,M,UK,2022-05-12,1356.78
+1430.0,Myra Rao,33.0,Female,canada,2022-09-26,3574.61
+1280.0,Aditya Mehta,45.0,MALE,UK,2023-06-16,4949.19 INR
+1403.0,Ayaan Verma,,male,United Kingdom,2023-11-14,4698.37
+1525.0,Ananya Sharma,29.0,M,canada,2019-10-05,2660.1
+1228.0,Ananya Mehta,32.0,nan,INDIA,2018-03-09,3743.77
+1100.0,Sara Singh,24.0,nan,U.S.A,2023-10-13,1719.39
+1290.0,Reyansh Gupta,56.0,FEMALE,INDIA,04-01-2018,3687.05
+1426.0,Arjun Kapoor,30.0,male,Usa,2019-06-11,5194.96
+1366.0,Sara Sharma,53.0,female,United Kingdom,2023-11-14,893.87
+1053.0,Sara Sharma,35.0,F,india,10-20-2018,"$4,570.73"
+1227.0,Ishaan Mehta,,M,india,10-23-2023,4382.96
+1391.0,Reyansh Gupta,46.0,male,canada,06-06-2023,"$4,347.07"
+1446.0,Myra Rao,-44.0,nan,USA,2021-04-26,3843.45
+2060.0,,,,,,
+1154.0,Ananya Kapoor,33.0,Female,Usa,2021-02-12,"$1,012.50"
+1251.0,Saanvi Mehta,24.0,Female,UK,2019-01-21,4868.23
+1275.0,Vivaan Gupta,42.0,Male,INDIA,09/11/2023,3190.33
+1501.0,Reyansh Iyer,62.0,male,India,2023-08-07,2913.2
+1158.0,Diya Rao,67.0,Female,INDIA,16/06/2019,3111.94
+1271.0,Saanvi Sharma,59.0,MALE,USA,09-08-2018,3858.72
+1044.0,Vivaan Kapoor,39.0,female,uk,25/05/2022,3370.85
+1358.0,Anika Sharma,45.0,nan,Usa,2022-10-12,1793.61
+1113.0,Kiara Singh,65.0,Male,U.S.A,09-06-2023,
+1491.0,Riya Iyer,48.0,FEMALE,INDIA,2022-11-24,50
+1211.0,Ishaan Mehta,54.0,nan,USA,22/06/2018,4993.91
+1108.0,Anika Kapoor,55.0,Female,U.S.A,08/06/2020,2411.91
+1320.0,Vivaan Iyer,-42.0,female,india,07-17-2022,4902.66
+1169.0,Ayaan Mehta,52.0,female,Usa,2018-01-15,3367.08
+1079.0,Saanvi Verma,50.0,female,U.S.A,10-16-2018,2055.62
+1050.0,Ananya Singh,54.0,F,canada,10-14-2021,1765.48
+1084.0,Pari Sharma,36.0,Female,Usa,05-05-2020,2000.43
+1008.0,Aadhya Singh,48.0,nan,USA,10-14-2020,2932.76
+1032.0,Saanvi Reddy,22.0,nan,U.S.A,02-08-2020,"$3,192.26"
+1099.0,Reyansh Iyer,37.0,Male,INDIA,2022-01-10,5028.57
+1109.0,Reyansh Verma,42.0,Female,United Kingdom,2022-09-15,2245.91
+1136.0,Aadhya Sharma,,Male,UK,06-20-2023,2445.4
+1330.0,Vihaan Iyer,29.0,Female,canada,2022-10-03,3021.99
+1222.0,Vihaan Reddy,28.0,Male,Usa,08-23-2022,4009.71
+1028.0,Sara Singh,49.0,nan,india,02-26-2022,2722.58
+1287.0,Anika Mehta,37.0,Male,Usa,2022-08-27,"$3,077.95"
+1541.0,Pari Iyer,62.0,nan,Canada,10-22-2021,1768.1
+1055.0,Riya Gupta,54.0,FEMALE,UK,2023-03-19,4286.76
+1156.0,Arjun Kapoor,66.0,nan,Usa,2022-03-20,3489.32
+1555.0,Anika Rao,19.0,Male,india,01-14-2019,3363.66
+1566.0,Ishaan Sharma,-48.0,F,canada,08/04/2020,
+1310.0,Vivaan Rao,15.0,Male,india,17/02/2022,
+1048.0,Aadhya Mehta,35.0,FEMALE,Usa,16/04/2020,"$2,729.34"
+1083.0,Vivaan Rao,51.0,Male,UK,15/11/2019,"$3,335.41"
+1528.0,Aadhya Gupta,56.0,Female,U.S.A,06-06-2022,373.09
+1033.0,Ananya Sharma,20.0,Female,U.S.A,2019-05-01,4286.28
+1437.0,Aditya Kapoor,51.0,Female,U.S.A,2023-03-19,
+1035.0,Pari Rao,59.0,Male,INDIA,2018-01-05,510.41
+1331.0,Saanvi Reddy,18.0,Female,INDIA,2022-02-10,4386.66
+1063.0,Pari Singh,33.0,Male,INDIA,06-24-2020,"$3,587.41"
+1413.0,Ananya Verma,28.0,Female,United Kingdom,05-25-2018,2178.92
+1384.0,Sara Gupta,15.0,female,USA,2023-09-06,2574.53
+1559.0,Kiara Singh,46.0,Female,canada,04/05/2023,2346.3
+1473.0,Reyansh Rao,48.0,Female,uk,27/02/2022,$161.96
+1322.0,Sai Gupta,22.0,Female,USA,22/07/2020,999.86
+1372.0,Saanvi Verma,43.0,M,UK,2021-03-16,"$2,100.16"
+1451.0,Anika Verma,58.0,Female,Canada,09-02-2020,"$5,082.43"
+1472.0,Riya Singh,39.0,MALE,UK,2023-07-27,47277.15
+1234.0,Aadhya Singh,45.0,Male,Usa,03/02/2022,5434.89
+1412.0,Arjun Reddy,18.0,F,INDIA,2022-06-18,3969.75
+2021.0,,,,,,
+1343.0,Krishna Nair,18.0,male,india,2019-09-03,3925.16
+1045.0,Krishna Mehta,65.0,nan,canada,14/02/2021,"$2,836.20"
+1462.0,Anika Iyer,40.0,male,Canada,2019-01-15,2563.94
+1424.0,Aditya Gupta,27.0,Male,india,2018-11-17,5293.98
+1554.0,Reyansh Mehta,69.0,male,canada,03/02/2020,"$3,195.85"
+1303.0,Diya Mehta,55.0,male,Canada,01/02/2019,4485.23 INR
+1556.0,Reyansh Reddy,24.0,MALE,Canada,2020-04-07,"$2,503.49"
+1177.0,Sara Gupta,52.0,nan,uk,07-05-2019,1860.66
+1219.0,Diya Kapoor,38.0,F,U.S.A,2020-01-03,6530.96
+1548.0,Vivaan Kapoor,28.0,male,U.S.A,2018-11-06,3111.96 INR
+1296.0,Aditya Kapoor,28.0,Female,canada,02/02/2023,3650.25
+1021.0,Sai Reddy,44.0,MALE,INDIA,2023-02-24,"$2,947.63"
+1248.0,Aadhya Gupta,55.0,nan,U.S.A,2021-10-26,"$4,267.27"
+1348.0,Vivaan Mehta,56.0,Female,United Kingdom,02/01/2022,4834.12 INR
+1420.0,Sai Rao,41.0,Male,USA,27/06/2023,4284.49
+1325.0,Pari Singh,15.0,Female,USA,05/03/2018,4062.66
+1309.0,Sara Iyer,20.0,male,UK,04-25-2018,3425.61
+1199.0,Diya Mehta,66.0,female,India,2023-08-21,4107.47
+1450.0,Ishaan Kapoor,37.0,nan,uk,17/11/2019,2687.64
+1137.0,Vihaan Verma,46.0,Female,U.S.A,08-04-2022,4178.81
+1024.0,Aarav Iyer,65.0,Male,Usa,2020-11-19,4891.16
+1399.0,Sai Singh,47.0,male,INDIA,2021-01-07,1949.99
+1443.0,Kiara Iyer,64.0,nan,Canada,10-17-2021,5940.85
+1184.0,Vihaan Verma,65.0,Female,Usa,03-05-2019,7555.98
+1205.0,Pari Nair,40.0,Female,USA,12/08/2019,3432.51
+1134.0,Myra Reddy,18.0,Male,Canada,2019-09-27,"$2,911.94"
+1299.0,Vihaan Verma,28.0,male,Canada,2018-06-08,4325.65
+1116.0,Ayaan Sharma,26.0,Male,Usa,2019-08-15,"$3,336.28"
+1212.0,Reyansh Mehta,34.0,Male,india,11/02/2020,4492.92
+1195.0,Aarav Verma,56.0,F,USA,06-17-2022,"$4,124.55"
+1087.0,Krishna Iyer,53.0,Male,U.S.A,04/08/2019,"$4,634.37"
+1587.0,Sara Iyer,69.0,Male,UK,2021-01-26,3701.01
+1578.0,Aditya Gupta,-38.0,female,Usa,2023-02-27,2892.72
+1467.0,Saanvi Verma,27.0,male,United Kingdom,2020-08-08,5009.59
+1505.0,Sara Mehta,35.0,female,uk,05/01/2023,"$1,580.91"
+1433.0,Diya Mehta,57.0,Female,USA,2021-03-03,3420.92
+1231.0,Ananya Verma,26.0,Male,uk,21/03/2022,3140.34
+1405.0,Pari Nair,,Male,canada,27/06/2022,2765.22
+1217.0,Sai Singh,59.0,Male,Canada,2019-10-10,"$4,523.59"
+1056.0,Myra Reddy,44.0,female,india,02/07/2022,2914.3
+1317.0,Krishna Rao,60.0,Female,Usa,11-10-2021,3901.66
+1183.0,Ishaan Gupta,35.0,Female,Usa,05-14-2021,3647.0
+1540.0,Riya Sharma,30.0,Male,india,16/05/2023,457.3
+1538.0,Aditya Sharma,19.0,nan,Usa,13/03/2018,"$6,220.60"
+1485.0,Anika Rao,59.0,Female,uk,2019-03-10,4377.24
+1278.0,Ishaan Iyer,39.0,Male,INDIA,2023-01-06,"$5,764.81"
+1020.0,Sai Mehta,28.0,Female,uk,21/10/2023,2705.84
+1170.0,Krishna Sharma,52.0,Male,UK,2020-01-13,4233.0
+1401.0,Anika Nair,23.0,Female,U.S.A,03-15-2022,46894.94
+1581.0,Arjun Singh,46.0,FEMALE,United Kingdom,02/04/2023,3039.7
+1176.0,Reyansh Rao,40.0,Female,Usa,03-02-2019,"$1,815.56"
+1327.0,Diya Kapoor,19.0,Male,Canada,14/08/2023,3951.67
+1198.0,Vivaan Sharma,31.0,Male,India,21/07/2020,2760.17
+1470.0,Riya Singh,37.0,Male,U.S.A,07/07/2023,2037.15
+1531.0,Ayaan Rao,63.0,M,Usa,2022-10-08,729.37
+1266.0,Myra Kapoor,40.0,Male,USA,03/08/2018,"$2,502.41"
+1492.0,Sara Gupta,38.0,Female,India,2020-07-26,"$8,269.80"
+1130.0,Kiara Gupta,65.0,Male,uk,2018-05-19,503.8
+1338.0,Sai Nair,50.0,female,INDIA,2023-03-27,1915.6
+1536.0,Sai Gupta,60.0,female,Usa,2020-09-17,3535.8
+1489.0,Krishna Gupta,33.0,MALE,USA,2020-08-04,5556.6
+1193.0,Vihaan Kapoor,24.0,male,United Kingdom,01-02-2022,"$2,383.06"
+1140.0,Ayaan Kapoor,48.0,Male,Canada,2023-10-15,2253.85
+1416.0,Saanvi Kapoor,66.0,F,Usa,08-18-2022,665.22
+1476.0,Ananya Sharma,31.0,female,Usa,03-17-2023,4035.71
+1152.0,Saanvi Singh,45.0,Female,United Kingdom,2020-01-27,2123.37
+1564.0,Vihaan Verma,49.0,Female,Canada,10-17-2020,2064.58
+1010.0,Reyansh Singh,22.0,Female,UK,05/01/2022,"$4,752.67"
+1269.0,Ishaan Singh,26.0,Male,United Kingdom,02-16-2021,3435.98
+1096.0,Reyansh Rao,52.0,male,Canada,09-20-2019,1771.63
+1210.0,Vihaan Reddy,25.0,Female,India,2023-07-18,4729.01 INR
+1462.0,Anika Iyer,40.0,male,Canada,2019-01-15,2563.94
+1594.0,Ayaan Reddy,15.0,male,United Kingdom,06-07-2020,1949.76
+1532.0,Vivaan Gupta,39.0,Female,U.S.A,24/09/2023,4768.51
+1586.0,Kiara Gupta,,MALE,canada,03-21-2023,5137.86
+1332.0,Reyansh Gupta,55.0,Female,india,11-18-2020,"$1,724.36"
+1075.0,Reyansh Gupta,41.0,Female,INDIA,2020-03-04,1988.16
+1077.0,Arjun Nair,38.0,Female,india,2021-02-03,3032.38
+1263.0,Anika Iyer,58.0,Female,U.S.A,02-17-2019,1792.51
+1149.0,Aarav Verma,44.0,Female,Canada,09/10/2020,3178.44
+1514.0,Arjun Kapoor,45.0,Male,U.S.A,2021-10-13,2907.5
+1591.0,Sai Gupta,40.0,Male,india,09-08-2022,3066.25
+1469.0,Diya Singh,27.0,M,Canada,04-26-2021,6136.65
+1461.0,Vivaan Sharma,36.0,nan,USA,2022-10-23,3706.44
+1253.0,Ishaan Gupta,30.0,Female,uk,2021-02-09,3536.67
+1369.0,Ananya Iyer,43.0,Male,india,08/09/2018,2837.22
+1321.0,Kiara Reddy,32.0,female,U.S.A,10-18-2022,3606.49 INR
+1151.0,Myra Gupta,39.0,Female,United Kingdom,10/04/2019,6064.92
+1302.0,Ayaan Kapoor,64.0,F,uk,04-13-2020,
+1190.0,Sai Kapoor,31.0,Male,Usa,05-27-2022,4969.38 INR
+1348.0,Vivaan Mehta,56.0,Female,United Kingdom,02/01/2022,4834.12 INR
+1243.0,Ishaan Nair,-33.0,Male,INDIA,2022-02-06,6263.23
+1087.0,Krishna Iyer,53.0,Male,U.S.A,04/08/2019,"$4,634.37"
+1572.0,Sai Rao,56.0,F,Usa,2022-02-18,"$1,934.13"
+1418.0,Aarav Iyer,46.0,Male,India,04-19-2019,857.0
+1288.0,Krishna Singh,18.0,FEMALE,uk,08/04/2020,3884.95
+1166.0,Ananya Iyer,66.0,Male,canada,20/03/2020,2205.22
+1589.0,Sai Sharma,46.0,Male,Usa,2020-08-21,
+1155.0,Ananya Rao,54.0,nan,India,11/02/2023,4163.68
+1356.0,Ishaan Rao,36.0,M,uk,13/10/2022,3927.69
+1381.0,Aarav Rao,68.0,F,United Kingdom,17/04/2021,1258.83 INR
+1279.0,Ananya Nair,58.0,female,UK,2023-02-03,"$3,889.31"
+1126.0,Krishna Singh,57.0,Female,United Kingdom,10/09/2021,1570.41
+1022.0,Riya Verma,65.0,Male,canada,2020-02-15,3100.42 INR
+1282.0,Anika Rao,22.0,Male,UK,2021-02-25,4941.64
+1471.0,Krishna Sharma,30.0,Female,Canada,13/01/2018,2177.56 INR
+1367.0,Pari Kapoor,69.0,Female,uk,20/02/2020,"$4,013.97"
+1025.0,Saanvi Singh,48.0,Female,uk,23/10/2023,3144.72
+1196.0,Sai Gupta,36.0,Female,canada,23/06/2020,3520.03
+1064.0,Vivaan Sharma,66.0,Female,INDIA,03/03/2020,1969.07 INR
+1015.0,Vihaan Mehta,20.0,Female,uk,04-01-2020,2883.61 INR
+1466.0,Aadhya Nair,15.0,male,UK,20/11/2018,4418.52
+1297.0,Myra Nair,69.0,MALE,U.S.A,2023-06-14,3443.37
+1336.0,Ananya Reddy,54.0,Male,India,23/02/2022,1107.69
+1026.0,Vihaan Reddy,48.0,male,INDIA,05-05-2020,2998.32
+1043.0,Ishaan Verma,,MALE,USA,12/10/2022,4842.78
+1497.0,Diya Verma,45.0,Female,Usa,09-24-2021,
+1515.0,Arjun Iyer,-42.0,Male,INDIA,09/04/2018,2777.84
+1244.0,Ayaan Kapoor,37.0,M,INDIA,2020-11-09,5294.51
+1561.0,Saanvi Singh,17.0,Male,india,16/06/2018,3293.43
+1454.0,Sai Iyer,35.0,Male,United Kingdom,2021-05-20,2839.87
+1387.0,Arjun Verma,65.0,nan,USA,10/11/2021,2749.68
+1071.0,Ayaan Kapoor,29.0,nan,india,10/03/2019,707.23
+1542.0,Ayaan Rao,21.0,male,USA,08-27-2019,692.45
+1456.0,Sara Reddy,-57.0,Female,uk,11-09-2023,4982.43
+1431.0,Myra Nair,47.0,nan,India,2021-11-05,4671.4
+1264.0,Sai Rao,42.0,F,uk,2018-05-01,4152.88 INR
+1209.0,Riya Kapoor,35.0,male,Usa,24/09/2018,3136.07
+1316.0,Vihaan Rao,49.0,male,Usa,2018-11-07,601.12 INR
+1513.0,Ananya Mehta,29.0,nan,Canada,02/02/2018,"$5,332.03"
+1313.0,Anika Kapoor,47.0,FEMALE,Usa,05-20-2018,3856.01
+1534.0,Pari Reddy,34.0,Female,USA,04/04/2021,"$3,210.26"
+1319.0,Saanvi Singh,,Male,INDIA,04/07/2018,46091.05
+1007.0,Reyansh Verma,33.0,Female,India,25/02/2022,4221.12
+1393.0,Saanvi Mehta,66.0,Male,USA,2020-04-27,3158.8
+1141.0,Aditya Rao,68.0,female,U.S.A,10-05-2018,"$2,808.71"
+1086.0,Myra Singh,24.0,female,USA,25/05/2020,4650.23
+1478.0,Anika Sharma,56.0,FEMALE,India,2019-07-03,2631.21
+1503.0,Saanvi Iyer,49.0,M,United Kingdom,26/11/2021,4472.85
+1215.0,Aditya Singh,56.0,Male,canada,07/03/2019,4226.68
+1580.0,Ananya Kapoor,37.0,male,USA,06-18-2018,6177.69
+1562.0,Aarav Kapoor,59.0,Female,Canada,01-06-2022,5149.03
+1398.0,Sai Gupta,18.0,nan,UK,2018-04-18,
+1490.0,Ananya Rao,36.0,female,United Kingdom,2021-07-07,729.51
+1252.0,Riya Mehta,22.0,Female,USA,2022-08-04,"$4,804.51"
+1468.0,Myra Gupta,48.0,FEMALE,United Kingdom,2018-02-22,3491.35
+1357.0,Ananya Rao,,Male,INDIA,08/09/2021,2472.14
+1254.0,Ananya Gupta,63.0,male,United Kingdom,11/03/2020,50
+1276.0,Krishna Nair,22.0,Male,USA,2018-04-03,2677.48
+1178.0,Anika Nair,,nan,india,2021-03-07,
+1281.0,Vihaan Iyer,33.0,Female,Usa,04-21-2019,"$4,092.71"
+1390.0,Ananya Gupta,53.0,female,United Kingdom,2019-02-27,"$1,251.66"
+1508.0,Anika Kapoor,58.0,Male,Usa,12/03/2019,2201.93
+1583.0,Aarav Rao,16.0,male,Canada,26/08/2019,4277.28
+1129.0,Aditya Sharma,38.0,MALE,Usa,05-12-2019,2563.09
+1144.0,Saanvi Iyer,48.0,F,canada,07/04/2019,4046.79 INR
+1072.0,Aadhya Rao,44.0,nan,uk,10-24-2022,
+1235.0,Diya Kapoor,39.0,female,U.S.A,11-22-2019,2806.49
+1037.0,Vivaan Verma,15.0,Female,INDIA,02/01/2021,4212.05
