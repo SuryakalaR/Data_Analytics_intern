@@ -1,6 +1,6 @@
 # OIBSIP — Data Analytics Track (Suryakala)
 
-This repository contains my completed tasks for the Oasis Infobyte Summer Internship Program (OIB-SIP), Data Analytics track. **7 of the available tasks are complete** (3 from Level 1, 4 from Level 2) — well above the minimum requirement of 3.
+This repository contains my completed tasks for the Oasis Infobyte Summer Internship Program (OIB-SIP), Data Analytics track. **7 of the tasks are complete** 
 
 ---
 
